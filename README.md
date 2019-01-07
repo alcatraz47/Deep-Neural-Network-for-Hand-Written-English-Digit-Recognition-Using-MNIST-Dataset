@@ -8,3 +8,7 @@ The code is written with comments, so those who are acquainted with Deep Learnin
 on top of Tensorflow, they can easily grab the comments and learn from it.
 
 The version of Tensorflow is '1.12.0' so the code has changed a bit in one place while Flatten() is used. You will get it eventually.
+
+I have used Jupyter Notebook as the development environment.
+
+Happy Coding! :) 
